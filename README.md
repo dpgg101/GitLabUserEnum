@@ -1,6 +1,6 @@
 # Code Conversion to Python 3
 This code is inspired by [GitLab Community Edition (CE) 13.10.3 - User Enumeration
-](https://www.exploit-db.com/exploits/49821) in Python3 for [Academy](http://academy.hackthebox.com/) for Module "Attacking Commoon Applications" and section "Attacking GitLab".
+](https://www.exploit-db.com/exploits/49821) in Python3 for [Academy](http://academy.hackthebox.com/) for Module "Attacking Common Applications" and section "Attacking GitLab".
 
 The original code was written in Bash. 
 
