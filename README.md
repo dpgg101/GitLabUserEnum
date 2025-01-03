@@ -9,10 +9,11 @@ To run this code, you will need Python 3 installed on your system.
 
 ## Usage
 To run the code, simply execute the script in a terminal or command prompt using Python 3. For example:
+
 ```bash
 $ wget https://raw.githubusercontent.com/dpgg101/GitLabUserEnum/main/gitlab_userenum.py
 $ python3 gitlab_userenum.py
-usage: gitlab_userenum.py [-h] --url URL --wordlist WORDLIST
+usage: gitlab_userenum.py [-h] --url URL --wordlist WORDLIST [-v]
 ```
 
 ## Contributing
